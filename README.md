@@ -24,6 +24,6 @@
   <a href = "mailto:lincolndiogo200@icloud.com"><img src="https://img.shields.io/badge/-Icloud-%23333?style=for-the-badge&logo=icloud&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lincoln-diogo-ferreira-de-oliveira-75b9a4250/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/matheuspsb/matheuspsb/blob/output/github-contribution-grid-snake.svg) 
+  ![Snake animation](https://github.com/Lincolndiogo200/Lincolndiogo200/blob/output/github-contribution-grid-snake.svg) 
  
 </div>
